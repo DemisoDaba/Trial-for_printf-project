@@ -24,3 +24,4 @@ void init_params(params_t *params, va_list ap)
 	params->l_modifier = 0;
 	(void)ap;
 }
+
